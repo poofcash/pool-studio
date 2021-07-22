@@ -1,0 +1,8 @@
+{
+  "title": "Poof Pool Studio",
+  "subtitle": "Create a new Poof pool",
+  "create": {
+    "title": "Create a Poof pool",
+    "subtitle": "Create a new Poof pool that supports a specific currency and denomination"
+  }
+}
