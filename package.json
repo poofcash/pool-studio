@@ -46,7 +46,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "postinstall": "yarn typechain",
-    "typechain": "typechain --target=web3-v1 'src/**/abis/**/*.json' --out-dir src/generated/",
+    "typechain": "typechain --target=web3-v1 'src/**/artifacts/**/*.json' --out-dir src/generated/",
     "test": "react-scripts test",
     "compile": "yarn truffle compile",
     "eject": "react-scripts eject",
